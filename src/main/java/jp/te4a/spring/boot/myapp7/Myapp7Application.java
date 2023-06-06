@@ -1,13 +1,13 @@
-package jp.te4a.spring.boot.myapp6;
+package jp.te4a.spring.boot.myapp7;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Myapp6Application {
+public class Myapp7Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Myapp6Application.class, args);
+		SpringApplication.run(Myapp7Application.class, args);
 	}
 
 }
